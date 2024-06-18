@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/Monika/Documents/1. Moje projekty na GIThub/3. SQL przewodnik dla początkujących Walter Shields/baza danych - nie udostępniać/sTunes/sTunes.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="170"/><column_width id="3" width="3862"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,8:maininvoices"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Sample View 1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="68"/><column index="2" value="83"/><column index="3" value="129"/><column index="4" value="264"/><column index="5" value="132"/><column index="6" value="80"/><column index="7" value="96"/><column index="8" value="116"/><column index="9" value="40"/><column index="10" value="96"/><column index="11" value="71"/><column index="12" value="83"/><column index="13" value="294"/><column index="14" value="264"/><column index="15" value="132"/><column index="16" value="44"/><column index="17" value="96"/><column index="18" value="80"/><column index="19" value="128"/><column index="20" value="122"/><column index="21" value="183"/><column index="22" value="98"/><column index="23" value="82"/><column index="24" value="84"/><column index="25" value="84"/><column index="26" value="124"/><column index="27" value="75"/><column index="28" value="129"/><column index="29" value="129"/><column index="30" value="109"/><column index="31" value="50"/><column index="32" value="57"/><column index="33" value="73"/><column index="34" value="93"/><column index="35" value="115"/><column index="36" value="115"/><column index="37" value="168"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="albums" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="3" mode="0"/></sort><column_widths><column index="1" value="61"/><column index="2" value="300"/><column index="3" value="119"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="artists" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="customers" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="9" mode="0"/></sort><column_widths><column index="1" value="83"/><column index="2" value="71"/><column index="3" value="83"/><column index="4" value="294"/><column index="5" value="264"/><column index="6" value="132"/><column index="7" value="44"/><column index="8" value="96"/><column index="9" value="80"/><column index="10" value="128"/><column index="11" value="122"/><column index="12" value="183"/><column index="13" value="98"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="employees" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="82"/><column index="2" value="71"/><column index="3" value="71"/><column index="4" value="124"/><column index="5" value="75"/><column index="6" value="129"/><column index="7" value="129"/><column index="8" value="178"/><column index="9" value="67"/><column index="10" value="44"/><column index="11" value="60"/><column index="12" value="80"/><column index="13" value="115"/><column index="14" value="115"/><column index="15" value="168"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="genres" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="59"/><column index="2" value="112"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="invoice_items" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="94"/><column index="2" value="68"/><column index="3" value="56"/><column index="4" value="65"/><column index="5" value="64"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="invoices" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="9" mode="1"/></sort><column_widths><column index="1" value="68"/><column index="2" value="83"/><column index="3" value="180"/><column index="4" value="264"/><column index="5" value="132"/><column index="6" value="80"/><column index="7" value="96"/><column index="8" value="116"/><column index="9" value="125"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_sequence" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="40"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="sqlite_stat1" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="84"/><column index="2" value="194"/><column index="3" value="71"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="tracks" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="9" mode="1"/></sort><column_widths><column index="1" value="56"/><column index="2" value="300"/><column index="3" value="61"/><column index="4" value="90"/><column index="5" value="59"/><column index="6" value="300"/><column index="7" value="84"/><column index="8" value="63"/><column index="9" value="65"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="DIY - add column">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: This query retrieves the first name, last name and email address from the customers table.
+*/
+
+-- Add Company and Phone to query.
+
+SELECT	
+	FirstName,
+	LastName,
+	Email,
+	Company,
+	Phone
+FROM
+	customers;</sql><sql name="DIY - AS">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: This query retrieves the first name, last name ,email address,phone from the customers table.
+*/
+
+-- Add Fax as AS to query.
+
+SELECT	
+	FirstName AS 'First Name',
+	LastName AS [Last Name],
+	Email AS EMAIL,
+	Phone CELL,
+	Fax Old_technology
+FROM
+	customers;</sql><sql name="DIY - 15% tax">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: The query displays the value of the 'Total' column of the 'invoices' table with the 15% tax added.
+*/
+
+
+SELECT
+	Total AS [Original Amount],
+/*	Total +10 AS [Addition Operator],
+	Total -10 AS [Subtraction Operator],
+	Total /10 AS [Division Operator],
+	Total *10 AS [Multiplication Operator],
+	Total %10 AS [Modulo Operator],*/
+	Total *0.15 + Total	AS [total with TAX]
+FROM
+	invoices
+ORDER BY
+	Total DESC;</sql><sql name="DIY - WHERE">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: All bills over $1.98.
+*/
+SELECT
+	InvoiceId,
+	InvoiceDate,
+	Total
+FROM
+	invoices
+Where 
+	Total &gt; 1.98
+ORDER BY
+	Total ASC;
+		
+/*	
+DESCRIPTION: All bills greater than or equal to $1.98.
+*/
+SELECT
+	InvoiceId,
+	InvoiceDate,
+	Total
+FROM
+	invoices
+Where 
+	Total &gt;= 1.98
+ORDER BY
+	Total ASC;
+
+/*	
+DESCRIPTION: All bills not equal to $1.98.
+*/
+SELECT
+	InvoiceId,
+	InvoiceDate,
+	Total
+FROM
+	invoices
+Where 
+	Total &lt;&gt; 1.98
+ORDER BY
+	Total ASC;
+</sql><sql name="WHERE. How can I do this on one select?">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: All bills over $1.98.
+			 All bills greater than or equal to $1.98.
+			 All bills not equal to $1.98.
+*/
+SELECT
+	InvoiceId,
+	InvoiceDate,
+	Total
+FROM
+	invoices
+Where 
+	Total &gt; 1.98
+ORDER BY
+	Total ASC;
+
+
+</sql><sql name="DIY- IN">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 07.05.2024r.
+DESCRIPTION: How many records the query will return.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	Total IN (1.98, 3.96)
+ORDER BY
+	InvoiceDate;
+		
+/*
+DESCRIPTION: A query returning all bills issued in the amount of 13.86, 18.86 or 21.86.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	Total IN (13.86, 18.86, 21.86)
+ORDER BY
+	InvoiceDate;</sql><sql name="DIY- DATETIME">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 08.05.2024r.
+DESCRIPTION: List of all bills issued between January 1. - December 31, 2009r.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	InvoiceDate BETWEEN '2009-01-01 00:00:00' AND '2009-12-31 00:00:00'
+ORDER BY
+	InvoiceDate;
+		
+/*
+DESCRIPTION: List of the 10 highest bills issued after July 5, 2009.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	InvoiceDate &gt; '2009-07-05 00:00:00'
+ORDER BY
+	Total DESC
+LIMIT
+	10;
+</sql><sql name="DIY- AND;OR">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 08.05.2024r.
+DESCRIPTION: List of customers from a town with a name starting with the letter &quot;P&quot; and an invoice value greater than USD 2.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	BillingCity LIKE 'P%' AND Total&gt;2.00
+ORDER BY
+	Total;
+		
+
+</sql><sql name="DIY- AND;OR (1)">/*
+CREATED BY: Monika Kasperczyk-Rosa
+CREATED ON: 08.05.2024r.
+DESCRIPTION: List of customers from a town with a name starting with the letter &quot;P&quot; and an invoice value greater than USD 2.
+*/
+SELECT
+	InvoiceDate,
+	BillingAddress,
+	BillingCity,
+	Total
+FROM
+	invoices
+Where 
+	(BillingCity LIKE 'P%' OR BillingCity LIKE 'D%') AND TOTAL&gt;1.98
+ORDER BY
+	Total;
+		
+
+</sql><current_tab id="8"/></tab_sql></sqlb_project>
